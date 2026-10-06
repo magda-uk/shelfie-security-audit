@@ -85,3 +85,11 @@ To evaluate the soundness of the **Shelfie API** design, the architecture was de
 - [ ] Replace `print()` debugging with Python's `logging` module (NIST SP 800-92 compliant, redacting sensitive PII and `/auth/register` passwords).
 - [ ] Centralise logs and error tracking into an **ELK Stack SIEM**, **Sentry**, and **Grafana** anomaly dashboards.
 - [ ] Integrate **`pip-audit`** and **GitHub Dependabot** into the workflow for automated vulnerability scanning and patch management.
+
+
+---
+
+## 6. Credits & Acknowledgements
+
+* **Security Assessment & Remediation Lead Analysts:** Conducted collaboratively by **Magda Dominguez**, **Ogechi Izegbune**, **Ri Khan**, **Monika Pegg**, and **Ruth Touloum**.
+* **Target Application (`Project Shelfie`) Development Team:** Originally architected and developed by **O. Agboola**, **E. Akinmade**, **V. Bemmer**, **S. Czutor**, **M. Dominguez**, and **S. Nasseredine** ([Project Shelfie Repository](https://github.com/magda-uk/Project-Shelfie-group-5-project)).
