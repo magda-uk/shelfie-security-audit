@@ -175,7 +175,7 @@ FLUSH PRIVILEGES;
 * [x] HTTP headers hardened via `Flask-Talisman (force_https=True`, HSTS, CSP).
 * [x] Input schema validation (`Pydantic + NFKC`) and MySQL Least Privilege (`DML-only + REQUIRE SSL`) defined.
 
----
+
 
 ---
 
