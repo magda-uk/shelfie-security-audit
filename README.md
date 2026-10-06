@@ -1,5 +1,5 @@
-# Shelfie REST API: Security Architecture Audit, Threat Model & Remediation Plan
-[![Target Repo](https://img.shields.io/badge/Target%20Repo-Project%20Shelfie%20API-181717?logo=github)](https://github.com/magda-uk/Project-Shelfie-group-5-project)
+# Shelfie REST API: Security Architecture Audit, Threat Model & Remediation Plan [![Target Repo](https://img.shields.io/badge/Target%20Repo-Project%20Shelfie%20API-181717?logo=github)](https://github.com/magda-uk/Project-Shelfie-group-5-project)
+
 
 [![OWASP Top 10](https://img.shields.io/badge/Compliance-OWASP%20Top%2010%20%7C%20API%20Top%2010-red.svg)](#)
 [![Frameworks](https://img.shields.io/badge/Frameworks-STRIDE%20%7C%20MITRE%20ATT%26CK%20%7C%20NIST%20SP%20800--53-blueviolet.svg)](#)
