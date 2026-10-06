@@ -1,10 +1,11 @@
-# Shelfie REST API: Security Architecture Audit, Threat Model & Remediation Plan [![Target Repo](https://img.shields.io/badge/Target%20Repo-Project%20Shelfie%20API-181717?logo=github)](https://github.com/magda-uk/Project-Shelfie-group-5-project)
+# Shelfie REST API: Security Architecture Audit, Threat Model & Remediation Plan 
 
 
 [![OWASP Top 10](https://img.shields.io/badge/Compliance-OWASP%20Top%2010%20%7C%20API%20Top%2010-red.svg)](#)
 [![Frameworks](https://img.shields.io/badge/Frameworks-STRIDE%20%7C%20MITRE%20ATT%26CK%20%7C%20NIST%20SP%20800--53-blueviolet.svg)](#)
 [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20MySQL-blue.svg)](#)
 [![Audit Status](https://img.shields.io/badge/Audit-Completed%20%26%20Documented-success.svg)](#)
+[![Target Repo](https://img.shields.io/badge/Target%20Repo-Project%20Shelfie%20API-181717?logo=github)](https://github.com/magda-uk/Project-Shelfie-group-5-project)
 
 ## 1. Executive Summary
 A comprehensive security architecture assessment, dynamic penetration test, and secure design remediation plan for the **Shelfie RESTful API** (a four-layer Python Flask and MySQL backend managing personal book libraries, reading progress, private quotes, and reviews).
