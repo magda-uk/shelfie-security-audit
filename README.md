@@ -15,6 +15,8 @@ While the baseline architecture implements strong foundational controls—includ
 
 > 📄 **Full Technical Report:** The complete 25-page assessment with Burp Suite evidence and 77 IEEE academic references is available in [`/reports/full-security-audit.pdf`](./reports/full-security-audit.pdf).
 
+>🛠️ **Technical Remediation Playbook:** Low-level code fixes, Flask security decorators, Pydantic schemas, and MySQL Least-Privilege scripts are available in [`/docs/remediation-playbook.md`](./docs/remediation-playbook.md).
+
 > 💻 **Target Application Source Code:** The original four-layer Flask & MySQL codebase audited in this report can be found in the [**Project Shelfie Repository**](https://github.com/magda-uk/Project-Shelfie-group-5-project).
 
 ---
