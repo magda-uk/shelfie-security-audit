@@ -91,5 +91,5 @@ To evaluate the soundness of the **Shelfie API** design, the architecture was de
 
 ## 6. Credits & Acknowledgements
 
-* **Security Assessment & Remediation Lead Analysts:** Conducted collaboratively by **Magda Dominguez**, **Ogechi Izegbune**, **Ri Khan**, **Monika Pegg**, and **Ruth Touloum**.
+* **Security Assessment & Remediation Lead Analysts:** Conducted collaboratively by **Magda Dominguez**, **Ogechi I.** **Ri K.** **Monika P.** and **Ruth T**.
 * **Target Application (`Project Shelfie`) Development Team:** Originally architected and developed by **O. Agboola**, **E. Akinmade**, **V. Bemmer**, **S. Czutor**, **M. Dominguez**, and **S. Nasseredine** ([Project Shelfie Repository](https://github.com/magda-uk/Project-Shelfie-group-5-project)).
